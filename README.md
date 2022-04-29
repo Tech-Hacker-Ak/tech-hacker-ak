@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi There 👋 I am
+# Ankush Sheoran
+### Welcome To Our GitHub Profile
 
-<!--
-**Tech-Hacker-Ak/tech-hacker-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👉 Something About Me
+Name - Ankush Sheoran
+Qualification - Don't want to share numbers
+Age - 18 (2022)
+District - Hisar
+State - Haryana
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👉 Something About My Skills
+🔴 Frontend Web Developer <br>
+🔴 Part Time Bug Hunter<br>
+🔴 Ethical Hacker (As website testor)<br>
+🔴 Youtuber (Tech Hacker Ak) <br>
+🔴 Blogger (https://www.aktermux.in)<br>
