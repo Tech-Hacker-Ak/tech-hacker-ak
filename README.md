@@ -3,10 +3,10 @@
 ### Welcome To Our GitHub Profile
 
 ## 👉 Something About Me
-Name - Ankush Sheoran
-Qualification - Don't want to share numbers
-Age - 18 (2022)
-District - Hisar
+Name - Ankush Sheoran<br>
+Qualification - Don't want to share numbers<br>
+Age - 18 (2022)<br>
+District - Hisar<br>
 State - Haryana
 
 ## 👉 Something About My Skills
